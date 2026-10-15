@@ -1,0 +1,11 @@
+/build/
+/build-asan/
+/build-tsan/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+*.o
+*.a
